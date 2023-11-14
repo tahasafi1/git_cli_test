@@ -1,0 +1,1 @@
+Now this is the file that I want changes to be tracked because it is missing the text end. 
